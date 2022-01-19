@@ -19,7 +19,7 @@ and also remove any book from the collection. In addition, he/she will be able t
 
 -Clone this repository with
 
-git clone https://github.com/BertrandConxy/Awesome-books.git using your terminal or command line.
+git clone https://github.com/butlermuwo/Awesome-books-ES6.git using your terminal or command line.
 
 -Change to the project directory by entering :
 
@@ -33,10 +33,9 @@ cd The-Portfolio in the terminal.
 This project has been  finished and deployed.
 
 ## Screenshoots
-![Screenshot (77)](https://user-images.githubusercontent.com/90222110/149329933-d60febc9-3a6d-4e1d-99d2-14568dd28efd.png)
-![Screenshot (78)](https://user-images.githubusercontent.com/90222110/149329962-0fca49b4-9a4f-4dfc-a458-1f821175a9fc.png)
-![Screenshot (79)](https://user-images.githubusercontent.com/90222110/149329986-6ce4be56-60e7-4af2-9eb3-f13aa241f0a4.png)
-
+![screenshot (38)](https://github.com/butlermuwo/Awesome-books-ES6/blob/feature-branch/screenshots/Screenshot%20(38).png)
+![screenshot (39)](https://github.com/butlermuwo/Awesome-books-ES6/blob/feature-branch/screenshots/Screenshot%20(39).png)
+![screenshot (40)](https://github.com/butlermuwo/Awesome-books-ES6/blob/feature-branch/screenshots/Screenshot%20(40).png)
 
 ## Live Demo link
  
@@ -49,7 +48,7 @@ Here is the link to the Issues tab:
 
 
 
-## Authors
+## Author
 
 👤 **Butler Shimaluwani**
 

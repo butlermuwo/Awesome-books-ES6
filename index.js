@@ -3,6 +3,7 @@ import DisplaySection from './modules/displaysection.js';
 import CreateBookElements from './modules/createbookelements.js';
 import LocalStorageClass from './modules/displaybooks.js';
 import DisplayBookList from './modules/displayclasslist.js';
+import { DateTime } from './node_modules/luxon/build/es6/luxon.js';
 
 // class to make the web app an SPA
 
@@ -33,4 +34,4 @@ document.querySelector('.book-list').addEventListener('click', (e) => {
 
 document.addEventListener('DOMContentLoaded', DisplaySection.DisplayOnly);
 
-document.getElementById('date').innerHTML = Date();
+document.getElementById('date').innerHTML = DateTime.now();

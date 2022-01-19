@@ -38,7 +38,7 @@ This project has been  finished and deployed.
 ![screenshot (40)](https://github.com/butlermuwo/Awesome-books-ES6/blob/feature-branch/screenshots/Screenshot%20(40).png)
 
 ## Live Demo link
- 
+
 
 ## Issues
 
@@ -46,7 +46,7 @@ Up to now, there are no issues with it.
 
 Here is the link to the Issues tab:
 
-
+https://github.com/butlermuwo/Awesome-books-ES6/issues
 
 ## Author
 
